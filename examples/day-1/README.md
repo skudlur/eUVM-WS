@@ -5,10 +5,10 @@
 ### Using the compiler
 - ldc2 is the compiler.
 
-''' 
+``` 
 ldc2 <main_function_name> <unit_test_module_name> <filename.d>
 ./<exec_file>
-'''
+```
 
 #### Notes
 
